@@ -35,7 +35,7 @@
 解决 pylint [E1101](http://pylint-messages.wikidot.com/messages:e1101) 误报错误（在当报错的对象是动态创建的，并且确实是在访问的同时已经存在的时候pylint仍然会报出E1101的错误）
 
 
-### Experience
+### Practice
 1. 翻译
 
 ```
